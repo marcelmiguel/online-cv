@@ -7,215 +7,189 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Marcel Miguel
+    tagline: Software architect - developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: marcel.miguel@gmail.com
+    phone: ---
+    timezone: Europe/Madrid Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    website: marcelmiguel.github.io/online-cv/ #do not add http://
+    linkedin: marcel-miguel-creus-9553a136
     xing: alandoe
-    github: sharu725
+    github: marcelmiguel
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Spanish
           level: Native
 
-        - idiom: French
+        - idiom: Catalan
+          level: Native
+
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Czech
+          level: Elemental
 
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
+        - item: Aviation
+          link: www.aeroteca.com
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
+        - item: Music
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Self-taught, learning everyday and testing technologies.
+      Worked of a quite bif different aspects of technology, from microcontrollers to k8s, so from edge to cloud.
+      Able to see the whole architectural picture and also to dive into defining protocols, algorithms and bug solving issues.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
+      - degree: Facultat de informatica de Barcelona
+        university: Facultat de informatica de Barcelona
         time: 2011 - 2012
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Not finished
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: CTO & Lead developer & Project Manager
+        time: 2002 - present
+        company: Neo Grup Management, S.L., Barcelona
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          ERP software company focused on retail.
+          Managed a lot of different projects not only related to retail (main one of the main focus of the company)
+            - Main architect for the company, infrastructure and software
+            - Done Project Management since
+            - Implemented new procedures and protocols into the company, using external app, inside home-made apps, etc..
+            - Introduced Go in the company, used on edge and cloud. Started on work on 2015, entered production on 2017.
+            - Improveed SQL knowledge around the company
+            - NOSQL since 2017.
+            - Replicated databases for security, etc...
+            - Added small k8s clusters of 9 machines (cloud)
+            - Docker in production since 2013.
+            - Added offline support on all apps
+            - API docs with swagger from code
+            - Hardware interfacing for all kinf of products, RS232, tcpip, rs485, etc..
+            - B2B, B2C interfaces
+            - UI / UX design
+            - etc...
+            - Remote and hibrid job (5 years as manager and worker)
+      - role: Project Manager & Lead developer
+        time: 1998 - 2002
+        company: Desicom Systems, S.L., Barcelona
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Managed a lot of different projects not only related to retail (as one of the main focus of the company)
+            - Multithreaded Communications software
+            - Retail software for differrent big franchises
+            - Done microcontroller and hardware interfacing
+            - Worked on Informix, and other stuff of that time.
+      - role: Software Developer
+        time: 1998 - 2000
+        company: Consulting de Imagen Digital (CID), Barcelona
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          C developer for a company specialized in scientifical image analysis, CSIC backed
+          Imeplemented algorihms for spaecialized 
+            - Algorithms for analysis if ans skull corresponds a humand face
+            - Image database done from 0.
+            - Worked for official forensic instituts around spain
+            - Analysis of salmon grease for different industrial companys
+            - Cell behaviour and analysis with mathematical algorithms
+            - Simple video editor
+            - Introduced neural network analysis of cells to the company, 3 layer with back-propagation runnning in 3 different machines.
+            - Interfacing machine for autmating capturing of data, etc...
+            - C / C++ was used all around the whole projects and main app
+            - etc...
+      - role: Freelance developer
+        time: 1995 - 2000
+        company: freelance, Barcelona
+        details: |
+          Done programs in C and Delphi programs and libraries for differents companies. 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Some of the projects that go beyond the main job done on my jobs
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: FlightAgent
+        link: https://flightagent.github.io/
+        tagline: "HTML Cockpit instruments, backup utilities for flight sims and addons, everything on Go and webcomponents. Frontend app done in flutter. Lots of stuff for working on the hardware side, using ESP32 cards, arduinos, lots of screens, etc... Some dockers in the infrastructure, audio, etc..."
 
-      - title: DevStudio
+      - title: Container ship planning / load app
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Program to load and unload containers from cargo vessels for Terminal de Contenedores de Barcelona (TCB). Working as a server agnostic multiplatform, never done on their premises"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Aeroteca
+        link: www.aeroteca.com
+        tagline: "Owner & administrator of an aeronautical simulation center, pilot stuff, models and bookstore located in Barcelona."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+      - title: OMAB
+        link: 
+        tagline: "Open de Maquetismo Aeronautico de Barcelona, organization for modelist open for all categories. Done during 8 years"
 oss:
     title: OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
+      Some small libreries, components, examples and forks available for general public
+      - title: Various projects
+        link: https://github.com/marcelmiguel
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Web components library
+        link: https://www.npmjs.com/~marcel.miguel
+        tagline: "As part of the main job in Neo Grup, opensourced some components"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Go (8 years)
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Javascript
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: SQL (22 years)
+        level: 80%
+
+      - name: Docker
+        level: 70%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 65%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: C 
+        level: 75%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Delphi
+        level: 80%
+
+      - name: Polymer
+        level: 80%
+
+      - name: k8s
+        level: 40%
+
+      - name: PHP
+        level: 50%
+
+      - name: Rust
+        level: 10%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Created <i class="fas fa-heart"></i> using a fork of online-cv by Marcel Miguel Creus
