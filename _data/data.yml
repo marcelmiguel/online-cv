@@ -63,7 +63,7 @@ education:
     title: Education
     info:
       - degree: Facultat de informatica de Barcelona
-        university: Facultat de informatica de Barcelona
+        university: Facultat de Informatica de Barcelona
         time: 2011 - 2012
         details: |
           Not finished
@@ -182,6 +182,12 @@ skills:
         level: 40%
 
       - name: PHP
+        level: 50%
+
+      - name: Git
+        level: 80%
+
+      - name: Github actions
         level: 50%
 
       - name: Rust
