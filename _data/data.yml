@@ -18,15 +18,15 @@ sidebar:
     citizenship:
     website: marcelmiguel.github.io/online-cv/ #do not add http://
     linkedin: marcel-miguel-creus-9553a136
-    xing: alandoe
+    xing: 
     github: marcelmiguel
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow: 
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads: 
     pdf: 
 
     languages:
@@ -48,7 +48,7 @@ sidebar:
       title: Interests
       info:
         - item: Aviation
-          link: www.aeroteca.com
+          link: https://www.aeroteca.com
 
         - item: Music
           link:
@@ -138,21 +138,17 @@ projects:
       - title: Aeroteca
         link: www.aeroteca.com
         tagline: "Owner & administrator of an aeronautical simulation center, pilot stuff, models and bookstore located in Barcelona."
-
-      - title: OMAB
-        link: 
-        tagline: "Open de Maquetismo Aeronautico de Barcelona, organization for modelist open for all categories. Done during 8 years"
 oss:
     title: OSS Contributions
     intro: >
       Some small libreries, components, examples and forks available for general public
-      - title: Various projects
-        link: https://github.com/marcelmiguel
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+       - title: Various projects
+         link: github.com/marcelmiguel
+         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Web components library
-        link: https://www.npmjs.com/~marcel.miguel
-        tagline: "As part of the main job in Neo Grup, opensourced some components"
+       - title: Web components library
+         link: www.npmjs.com/~marcel.miguel
+         tagline: "As part of the main job in Neo Grup, opensourced some components"
 
 skills:
     title: Skills &amp; Proficiency
