@@ -133,7 +133,7 @@ projects:
         tagline: "Program to load and unload containers from cargo vessels for Terminal de Contenedores de Barcelona (TCB). Working as a server agnostic multiplatform, never done on their premises"
 
       - title: Aeroteca
-        link: www.aeroteca.com
+        link: https://www.aeroteca.com
         tagline: "CEO of an aeronautical simulation center, pilot stuff, models and bookstore located in Barcelona."
 oss:
     title: OSS Contributions
@@ -141,11 +141,11 @@ oss:
       Some small libreries, components, examples and forks available for general public
     contributions:
       - title: Various projects
-        link: github.com/marcelmiguel
+        link: https://github.com/marcelmiguel
         tagline: "Some public packages, demo projects, docker packages and samples for different technologies"
 
       - title: Web components library
-        link: www.npmjs.com/~marcel.miguel
+        link: https://www.npmjs.com/~marcel.miguel
         tagline: "As part of the main job in Neo Grup, opensourced some components"
 
 skills:
