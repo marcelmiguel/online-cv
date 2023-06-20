@@ -42,7 +42,7 @@ sidebar:
           level: Professional
 
         - idiom: Czech
-          level: Elemental
+          level: Basic
 
     interests:
       title: Interests
@@ -50,23 +50,20 @@ sidebar:
         - item: Aviation
           link: https://www.aeroteca.com
 
-        - item: Music
-          link:
-
 career-profile:
     title: Career Profile
     summary: |
       Self-taught, learning everyday and testing technologies.
-      Worked of a quite bif different aspects of technology, from microcontrollers to k8s, so from edge to cloud.
-      Able to see the whole architectural picture and also to dive into defining protocols, algorithms and bug solving issues.
+      Worked with different technologies, from microcontrollers to k8s, so from edge of the cloud.
+      Able to see the entire architecture and also delve into algorithms and bug problems.
 education:
     title: Education
     info:
-      - degree: Facultat de informatica de Barcelona
+      - degree: Facultat de informatica de Barcelona (not finished)
         university: Facultat de Informatica de Barcelona
-        time: 2011 - 2012
+        time: 1998 - 2000
         details: |
-          Not finished
+          
 experiences:
     title: Experiences
     info:
@@ -75,15 +72,14 @@ experiences:
         company: Neo Grup Management, S.L., Barcelona
         details: |
           ERP software company focused on retail.
-          Managed a lot of different projects not only related to retail (main one of the main focus of the company)
+          Managed and developed a lot of different projects:
             - Main architect for the company, infrastructure and software
             - Done Project Management since
             - Implemented new procedures and protocols into the company, using external app, inside home-made apps, etc..
             - Introduced Go in the company, used on edge and cloud. Started on work on 2015, entered production on 2017.
             - Improveed SQL knowledge around the company
-            - NOSQL since 2017.
-            - Replicated databases for security, etc...
-            - Added small k8s clusters of 9 machines (cloud)
+            - Replicated databases environment around edge and mainframes
+            - Maintenance & use of small k8s clusters of 9 machines (cloud)
             - Docker in production since 2013.
             - Added offline support on all apps
             - API docs with swagger from code
@@ -96,36 +92,37 @@ experiences:
         time: 1998 - 2002
         company: Desicom Systems, S.L., Barcelona
         details: |
-          Managed a lot of different projects not only related to retail (as one of the main focus of the company)
+          Managed and developed a lot of different projects (company focused on retail)
             - Multithreaded Communications software
-            - Retail software for differrent big franchises
+            - Retail software for differrent big franchises in Spain and Europe
             - Done microcontroller and hardware interfacing
             - Worked on Informix, and other stuff of that time.
+            - etc...
       - role: Software Developer
         time: 1998 - 2000
         company: Consulting de Imagen Digital (CID), Barcelona
         details: |
-          C developer for a company specialized in scientifical image analysis, CSIC backed
-          Imeplemented algorihms for spaecialized 
-            - Algorithms for analysis if ans skull corresponds a humand face
-            - Image database done from 0.
+          C developer for a company specialized in scientific image analysis, CSIC backed
+          Implemented algorihms and apps:
+            - Algorithms for analysis if a skull corresponds a specific person face
+            - Image database
             - Worked for official forensic instituts around spain
-            - Analysis of salmon grease for different industrial companys
+            - Analysis of salmon grease for different industrial companies
             - Cell behaviour and analysis with mathematical algorithms
             - Simple video editor
             - Introduced neural network analysis of cells to the company, 3 layer with back-propagation runnning in 3 different machines.
-            - Interfacing machine for autmating capturing of data, etc...
+            - Interfacing machine for automating capturing of data, etc...
             - C / C++ was used all around the whole projects and main app
             - etc...
       - role: Freelance developer
         time: 1995 - 2000
         company: freelance, Barcelona
         details: |
-          Done programs in C and Delphi programs and libraries for differents companies. 
+          Done programs in C and Delphi programs and libraries for different companies. 
 projects:
     title: Projects
     intro: >
-      Some of the projects that go beyond the main job done on my jobs
+      Some of the projects that go beyond work done on main jobs
     assignments:
       - title: FlightAgent
         link: https://flightagent.github.io/
@@ -137,18 +134,19 @@ projects:
 
       - title: Aeroteca
         link: www.aeroteca.com
-        tagline: "Owner & administrator of an aeronautical simulation center, pilot stuff, models and bookstore located in Barcelona."
+        tagline: "CEO of an aeronautical simulation center, pilot stuff, models and bookstore located in Barcelona."
 oss:
     title: OSS Contributions
     intro: >
       Some small libreries, components, examples and forks available for general public
-       - title: Various projects
-         link: github.com/marcelmiguel
-         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    contributions:
+      - title: Various projects
+        link: github.com/marcelmiguel
+        tagline: "Some public packages, demo projects, docker packages and samples for different technologies"
 
-       - title: Web components library
-         link: www.npmjs.com/~marcel.miguel
-         tagline: "As part of the main job in Neo Grup, opensourced some components"
+      - title: Web components library
+        link: www.npmjs.com/~marcel.miguel
+        tagline: "As part of the main job in Neo Grup, opensourced some components"
 
 skills:
     title: Skills &amp; Proficiency
@@ -166,6 +164,9 @@ skills:
       - name: Docker
         level: 70%
 
+      - name: MongoDB
+        level: 55%
+        
       - name: HTML5 & CSS
         level: 65%
 
@@ -187,11 +188,19 @@ skills:
       - name: Git
         level: 80%
 
-      - name: Github actions
+      - name: CI/CD
         level: 50%
 
       - name: Rust
-        level: 10%
+        level: 15%
 
+      - name: Linux admin
+        level: 75%
+      
+      - name: Grafana and prometheus
+        level: 75%
+
+      - name: RabbitMQ
+        level: 70%
 footer: >
-    Created <i class="fas fa-heart"></i> using a fork of online-cv by Marcel Miguel Creus
+    Created with <i class="fas fa-heart"></i> using a fork of online-cv by Marcel Miguel Creus
