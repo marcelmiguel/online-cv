@@ -4,7 +4,7 @@
 
 # Resume / CV
 
-[Online-cv](https://marcelmiguel.github.io/online-cv/)
+[Online-cv for Marcel Miguel Creus](https://marcelmiguel.github.io/online-cv/)
 
 # Orbit
 > This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
