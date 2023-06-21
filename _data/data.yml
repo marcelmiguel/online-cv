@@ -205,6 +205,9 @@ skills:
 
       - name: Project Management
         level: 80%
+
+      - name: Flutter
+        level: 65%
         
 footer: >
     Created with <i class="fas fa-heart"></i> using a fork of online-cv by Marcel Miguel Creus
