@@ -208,6 +208,8 @@ skills:
 
       - name: Flutter
         level: 65%
-        
+      
+      - name: C#
+        level: 65%
 footer: >
     Created with <i class="fas fa-heart"></i> using a fork of online-cv by Marcel Miguel Creus
